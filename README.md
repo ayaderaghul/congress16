@@ -6,6 +6,7 @@ the pdf file is very heavy. i post here the abstract of the paper. the paper is 
 
 # Working Title: Evolution of Behavior in the Repeated Nash Demand Game. A Computer Simulation.
 Nguyen Linh Chi
+
 University of Trento
 
 ## Abstract
