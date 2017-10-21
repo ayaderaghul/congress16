@@ -1,9 +1,3 @@
-# congress16
-working paper presented at games congress '16: bargaining, agent based simulation, evolutionary game theory
-
-# note
-the pdf file is very heavy. i post here the abstract of the paper. the paper is available on request.
-
 # Working Title: Evolution of Behavior in the Repeated Nash Demand Game. A Computer Simulation.
 Nguyen Linh Chi
 
