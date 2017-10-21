@@ -3,6 +3,8 @@ Nguyen Linh Chi
 
 University of Trento
 
+*(presented at Games Congress 2016, Maastricht)*
+
 ## Abstract
 Bargaining is an important problem in economics literature. We simulate a population of agents adopting
 different strategies of the repeated Nash Demand Game and let it evolve. The result suggests that, when
